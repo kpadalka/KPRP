@@ -1,0 +1,22 @@
+{
+  "name": "kprp",
+  "version": "1.0.0",
+  "description": "Home work attempt 2))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpadalka/KPRP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpadalka/KPRP/issues"
+  },
+  "homepage": "https://github.com/kpadalka/KPRP#readme",
+  "dependencies": {
+    "playwright": "^1.24.2"
+  }
+}
